@@ -9,7 +9,7 @@ const Coaches = () => {
       specialty: 'Professional Boxing',
       experience: '20+ years',
       achievements: ['Certified Boxing Trainer', 'Professional Boxing Experience', 'Youth & Adult Training'],
-      image: '/eddies_photo.jpg',
+      image: '/eddies_photo.jpeg',
     },
     {
       name: 'Tom',
