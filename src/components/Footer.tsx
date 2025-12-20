@@ -13,7 +13,7 @@ const Footer = () => {
                 alt="Eddies Gym Logo"
                 className="h-16 w-16 object-contain"
               />
-              <span className="font-bold text-2xl">EDDIES <span className="text-red-600">GYM</span></span>
+              <span className="font-bold text-2xl">EDDIE'S <span className="text-red-600">GYM</span></span>
             </Link>
             <p className="text-neutral-400 text-sm">
               Transform your body and mind through the discipline of boxing.
