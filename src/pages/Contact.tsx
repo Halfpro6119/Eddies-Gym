@@ -66,7 +66,7 @@ const Contact = () => {
 
                     <Button
                       type="submit"
-                      className="w-full bg-red-600 hover:bg-red-700 font-bold uppercase"
+                      className="w-full bg-red-600 hover:bg-red-700 text-white font-bold uppercase"
                     >
                       Send Message
                     </Button>

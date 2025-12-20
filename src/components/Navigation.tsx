@@ -43,8 +43,8 @@ const Navigation = () => {
                 {link.label}
               </Link>
             ))}
-            <Button className="bg-red-600 hover:bg-red-700 font-bold uppercase">
-              Join Now
+            <Button asChild className="bg-red-600 hover:bg-red-700 font-bold uppercase text-white">
+              <Link to="/contact">Join Now</Link>
             </Button>
           </div>
 
@@ -71,8 +71,8 @@ const Navigation = () => {
                 {link.label}
               </Link>
             ))}
-            <Button className="bg-red-600 hover:bg-red-700 font-bold uppercase w-full mt-4">
-              Join Now
+            <Button asChild className="bg-red-600 hover:bg-red-700 font-bold uppercase text-white w-full mt-4">
+              <Link to="/contact">Join Now</Link>
             </Button>
           </div>
         )}

@@ -120,7 +120,7 @@ const Pricing = () => {
                   </ul>
                   <Button
                     asChild
-                    className={`w-full font-bold uppercase ${
+                    className={`w-full text-white font-bold uppercase ${
                       plan.popular
                         ? 'bg-red-600 hover:bg-red-700'
                         : 'bg-neutral-800 hover:bg-neutral-700'

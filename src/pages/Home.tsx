@@ -26,7 +26,7 @@ const Home = () => {
             <Button
               asChild
               size="lg"
-              className="bg-red-600 hover:bg-red-700 font-bold uppercase text-lg px-8 py-6"
+              className="bg-red-600 hover:bg-red-700 text-white font-bold uppercase text-lg px-8 py-6"
             >
               <Link to="/pricing">Start Training</Link>
             </Button>
@@ -125,7 +125,7 @@ const Home = () => {
               <Button
                 asChild
                 size="lg"
-                className="bg-red-600 hover:bg-red-700 font-bold uppercase"
+                className="bg-red-600 hover:bg-red-700 text-white font-bold uppercase"
               >
                 <Link to="/contact">Get Started</Link>
               </Button>
