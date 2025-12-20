@@ -61,7 +61,7 @@ const Gallery = () => {
           <h1 className="text-5xl md:text-6xl font-black uppercase mb-4">
             Our <span className="text-red-600">Gallery</span>
           </h1>
-          <p className="text-xl text-neutral-300">See the Eddies Gym experience</p>
+          <p className="text-xl text-neutral-300">See the Eddie's Gym experience</p>
         </div>
       </section>
 
