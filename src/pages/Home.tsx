@@ -147,7 +147,7 @@ const Home = () => {
             Ready to Transform?
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Join Eddies Gym today and start your journey to becoming stronger, faster, and more confident.
+            Join Eddie's Gym today and start your journey to becoming stronger, faster, and more confident.
           </p>
           <Button
             asChild
