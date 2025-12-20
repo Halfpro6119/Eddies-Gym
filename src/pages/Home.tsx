@@ -135,6 +135,7 @@ const Home = () => {
                 src="/eddies_gym_your_journey_starts_here.jpg"
                 alt="Boxing training"
                 className="w-full h-full object-cover"
+                loading="lazy"
               />
             </div>
           </div>

@@ -12,6 +12,7 @@ const Footer = () => {
                 src="/eddies_gym_logo.jpg"
                 alt="Eddies Gym Logo"
                 className="h-16 w-16 object-contain"
+                loading="lazy"
               />
               <span className="font-bold text-2xl">EDDIE'S <span className="text-red-600">GYM</span></span>
             </Link>
