@@ -57,7 +57,7 @@ const Timetable = () => {
       case 'Youth':
         return 'bg-blue-600';
       default:
-        return 'bg-neutral-600';
+        return 'bg-green-600';
     }
   };
 
