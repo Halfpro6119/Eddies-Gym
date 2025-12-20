@@ -86,7 +86,7 @@ const Footer = () => {
             <div className="mt-6">
               <p className="text-neutral-400 text-xs">
                 <strong className="text-white">Hours:</strong><br />
-                Monday: 6:00 PM - 7:30 PM
+                Monday: 6:00 PM - 7:30 PM<br />
 Tuesday: 6:00 PM - 7:30 PM
 Wednesday: 6:00 PM - 7:30 PM & 7:30 PM - 9:00 PM
 Thursday: 6:00 PM - 7:30 PM
