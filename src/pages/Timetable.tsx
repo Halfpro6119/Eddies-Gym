@@ -12,7 +12,7 @@ const Timetable = () => {
     {
       day: 'Tuesday',
       classes: [
-        { time: '6:00 PM - 7:30 PM', name: 'Beginner Class (White Collar)', coach: 'Eddie Guest', level: 'Beginner, ll levels welcome'  },
+        { time: '6:00 PM - 7:30 PM', name: 'Beginner Class (White Collar)', coach: 'Eddie Guest', level: 'Beginner, All levels welcome'  },
       ],
     },
     {
