@@ -12,7 +12,7 @@ const Timetable = () => {
     {
       day: 'Tuesday',
       classes: [
-        { time: '6:00 PM - 7:30 PM', name: 'Beginner Class (White Collar)', coach: 'Eddie Guest', level: 'Beginner, All levels welcome'  },
+        { time: '6:00 PM - 7:30 PM', name: 'Beginner Class (White Collar)', coach: 'Eddie Guest', level: 'All levels'  },
       ],
     },
     {
@@ -25,7 +25,7 @@ const Timetable = () => {
     {
       day: 'Thursday',
       classes: [
-        { time: '6:00 PM - 7:30 PM', name: 'Beginner Class (White Collar)', coach: 'Eddie Guest', level: 'Beginner, All Levels Welcome' },
+        { time: '6:00 PM - 7:30 PM', name: 'Beginner Class (White Collar)', coach: 'Eddie Guest', level: 'All Levels' },
       ],
     },
     {
@@ -83,10 +83,6 @@ const Timetable = () => {
       <section className="py-16 text-white">
         <div className="container mx-auto px-4">
           <div className="mb-12 flex flex-wrap gap-4 justify-center">
-            <div className="flex items-center gap-2">
-              <div className="h-4 w-4 rounded bg-green-600" />
-              <span className="text-sm">Beginner</span>
-            </div>
             <div className="flex items-center gap-2">
               <div className="h-4 w-4 rounded bg-yellow-600" />
               <span className="text-sm">Amateur</span>
