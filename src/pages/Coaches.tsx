@@ -16,7 +16,7 @@ const Coaches = () => {
       role: 'Technical Coach',
       specialty: 'Technique & Footwork',
       experience: '10+ years',
-      achievements: ['Technical Boxing Specialist','Precision Training Expert', ''Women's Session Coach''],
+      achievements: ['Technical Boxing Specialist','Precision Training Expert', "Women's Session Coach"],
       image: '/toms_photo.jpeg',
     },
     {
