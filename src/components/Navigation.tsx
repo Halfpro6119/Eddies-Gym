@@ -28,7 +28,7 @@ const Navigation = () => {
               alt="Eddies Gym Logo"
               className="h-16 w-16 object-contain"
             />
-            <span className="font-bold text-2xl">EDDIES <span className="text-red-600">GYM</span></span>
+            <span className="font-bold text-2xl">EDDIE'S <span className="text-red-600">GYM</span></span>
           </Link>
 
           <div className="hidden md:flex items-center gap-8">
