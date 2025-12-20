@@ -88,7 +88,7 @@ const Timetable = () => {
               <span className="text-sm">Amateur</span>
             </div>
             <div className="flex items-center gap-2">
-              <div className="h-4 w-4 rounded bg-neutral-600" />
+              <div className="h-4 w-4 rounded bg-green-600" />
               <span className="text-sm">All Levels</span>
             </div>
             <div className="flex items-center gap-2">
