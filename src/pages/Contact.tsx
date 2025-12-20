@@ -88,7 +88,7 @@ const Contact = () => {
                     <div>
                       <h3 className="font-bold uppercase mb-1">Address</h3>
                       <p className="text-neutral-400">
-                        Eddies Gym<br />
+                        Eddie's Gym<br />
                         82 Isleham Rd, Fordham<br />
                         ELY CB7 5NN
                       </p>
