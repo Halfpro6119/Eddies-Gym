@@ -46,7 +46,7 @@ const Home = () => {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-black uppercase mb-4">
-              Why Choose <span className="text-red-600">Eddies Gym</span>
+              Why Choose <span className="text-red-600">Eddie's Gym</span>
             </h2>
             <p className="text-xl text-neutral-400 max-w-2xl mx-auto">
               We offer more than just a workout. Join a community dedicated to excellence.
