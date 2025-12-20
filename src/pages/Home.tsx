@@ -113,7 +113,7 @@ const Home = () => {
                 Your Journey <span className="text-red-600">Starts Here</span>
               </h2>
               <p className="text-lg text-neutral-400 mb-6">
-                Whether you're a complete beginner or an experienced fighter, Eddies Gym
+                Whether you're a complete beginner or an experienced fighter, Eddie's Gym
                 provides the perfect environment to achieve your goals. Our state-of-the-art
                 facility features professional-grade equipment, spacious training areas, and a
                 supportive atmosphere that pushes you to be your best.
