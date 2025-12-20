@@ -7,7 +7,7 @@ const Coaches = () => {
       name: 'Eddie Guest',
       role: 'Head Coach',
       specialty: 'Professional Boxing',
-      experience: '15+ years',
+      experience: '20+ years',
       achievements: ['Certified Boxing Trainer', 'Professional Boxing Experience', 'Youth & Adult Training'],
       image: '/eddies_photo.jpg',
     },
