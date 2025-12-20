@@ -92,7 +92,10 @@ Wednesday: 6:00 PM - 7:30 PM & 7:30 PM - 9:00 PM
 Thursday: 6:00 PM - 7:30 PM
 Friday: 5:00 PM - 6:00 PM
 Saturday: 4:00 PM - 5:00 PM
-Sunday: 10:30 AM - 11:30 AM
+Sunday: 10:30 AM - 11:30 AM<br />
+                Fri: 5:00 PM<br />
+                Sat: 4:00 PM<br />
+                Sun: 10:30 AM
               </p>
             </div>
           </div>
