@@ -96,7 +96,7 @@ const Gallery = () => {
             Join Our <span className="text-red-600">Community</span>
           </h2>
           <p className="text-lg text-neutral-400 max-w-2xl mx-auto mb-8">
-            Experience the energy, dedication, and camaraderie that makes Eddies Gym more than just a gym.
+            Experience the energy, dedication, and camaraderie that makes Eddie's Gym more than just a gym.
             Follow us on social media to see daily updates from our training sessions.
           </p>
         </div>
