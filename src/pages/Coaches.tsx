@@ -25,7 +25,7 @@ const Coaches = () => {
       specialty: 'Conditioning & Fitness',
       experience: '10+ years',
       achievements: ['Fitness & Conditioning Specialist', 'Boxing Fitness Expert', 'All Levels Training'],
-      image: '/dobbos_photo.jpg',
+      image: '/dobbos_photo.jpeg',
     },
   ];
 
