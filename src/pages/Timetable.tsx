@@ -6,7 +6,7 @@ const Timetable = () => {
     {
       day: 'Monday',
       classes: [
-        { time: '6:00 PM - 7:30 PM', name: 'Amateur Boxing', coach: 'Eddie Guest', level: 'Amateur' },
+        { time: '6:30 PM - 7:30 PM', name: 'Amateur Boxing', coach: 'Eddie Guest', level: 'Amateur' },
       ],
     },
     {
