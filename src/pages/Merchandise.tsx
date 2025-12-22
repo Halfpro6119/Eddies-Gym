@@ -19,7 +19,7 @@ const Merchandise = () => {
     {
       id: 'cap-eddies',
       name: 'Eddies Gym Cap',
-      price: 19.99,
+      price: 10.00,
       image: '/Merchandise/eddies_gym_cap.jpeg',
     },
     {
