@@ -10,6 +10,13 @@ const Merchandise = () => {
       sizes: ['14oz'],
     },
     {
+      id: 'boxing-gloves-eddies',
+      name: 'Eddies Gym Boxing Gloves Kids',
+      price: 35.00,
+      image: '/Merchandise/eddies_gym_gloves_kids.jpeg',
+      sizes: ['14oz'],
+    },
+    {
       id: 'hoodie-eddies',
       name: 'Eddies Gym Tracksuit Hoodie',
       price: 45.00,
