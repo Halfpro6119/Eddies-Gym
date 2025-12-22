@@ -99,8 +99,8 @@ Sunday: 10:30 AM - 11:30 AM<br />
         </div>
 
         <div className="border-t border-neutral-800 mt-8 pt-8 text-center text-neutral-400 text-sm">
-          <p>&copy; 2025 Eddie's Gym. All rights reserved.</b>
-          Website designed by Riley Rogers</p>
+          <p>&copy; 2025 Eddie's Gym. All rights reserved.</p>
+          </p>Website designed by Riley Rogers</p>
         </p>
         </div>
       </div>
