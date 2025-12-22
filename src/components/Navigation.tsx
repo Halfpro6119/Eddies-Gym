@@ -13,6 +13,7 @@ const Navigation = () => {
     { path: '/coaches', label: 'Coaches' },
     { path: '/pricing', label: 'Pricing' },
     { path: '/gallery', label: 'Gallery' },
+    { path: '/merchandise', label: 'Merchandise' },
     { path: '/contact', label: 'Contact' },
   ];
 
