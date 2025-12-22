@@ -11,7 +11,7 @@ const Merchandise = () => {
     },
     {
       id: 'hoodie-eddies',
-      name: 'Eddies Gym Hoodie',
+      name: 'Eddies Gym Tracksuit Hoodie',
       price: 39.99,
       image: '/Merchandise/eddies_gym_hoodie_front.jpeg',
       sizes: ['S', 'M', 'L', 'XL'],
