@@ -5,9 +5,9 @@ const Merchandise = () => {
     {
       id: 'boxing-gloves-eddies',
       name: 'Eddies Gym Boxing Gloves',
-      price: 59.99,
+      price: 35.00,
       image: '/Merchandise/eddies_gym_gloves.jpeg',
-      sizes: ['12oz', '14oz', '16oz'],
+      sizes: ['16oz'],
     },
     {
       id: 'hoodie-eddies',
