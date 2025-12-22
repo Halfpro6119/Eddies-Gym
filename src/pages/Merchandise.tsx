@@ -13,7 +13,7 @@ const Merchandise = () => {
       id: 'hoodie-eddies',
       name: 'Eddies Gym Hoodie',
       price: 39.99,
-      image: 'https://source.unsplash.com/500x500/?hoodie,gym',
+      image: '/Merchandise/eddies_gym_hoodie_front.jpeg',
       sizes: ['S', 'M', 'L', 'XL'],
     },
     {
