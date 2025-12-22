@@ -33,7 +33,7 @@ const Merchandise = () => {
       name: 'Reyes Professional Boxing Gloves',
       price: 100.00,
       image: '/Merchandise/reyes_professional_gloves.jpeg',
-      sizes: ['12oz', '14oz', '16oz'],
+      sizes: ['12oz', '16oz'],
     },
   ];
 
