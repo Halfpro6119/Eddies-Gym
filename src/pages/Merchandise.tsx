@@ -26,7 +26,7 @@ const Merchandise = () => {
       id: 'beanie-eddies',
       name: 'Eddies Gym Beanie',
       price: 14.99,
-      image: 'https://source.unsplash.com/500x500/?beanie,winter',
+      image: '/Merchandise/eddies_gym_beanie.jpeg',
     },
     {
       id: 'boxing-gloves-reyes',
