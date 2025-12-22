@@ -49,7 +49,7 @@ const Merchandise = () => {
       <section
         className="relative h-[300px] flex items-center justify-center text-white"
         style={{
-          backgroundImage: 'url(/eddies_gym_gallery.jpg)',
+          backgroundImage: 'url(/eddies_gym_merch.jpg)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
