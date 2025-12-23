@@ -23,7 +23,7 @@ const Rules = () => {
       rules: [
         'Sparring is not a fight. It is a controlled environment to develop skill, defence, and strength. Do not enter "fight mode."',
         'Give right of way to pairs who are actively sparring or drilling.',
-        'Always ask permission before pad work. Approval from the head coach is required.',
+        'Always ask permission before sparring. Approval from the head coach is required.',
       ],
     },
     {
