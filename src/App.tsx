@@ -8,6 +8,7 @@ import Pricing from './pages/Pricing';
 import Gallery from './pages/Gallery';
 import Contact from './pages/Contact';
 import Merchandise from './pages/Merchandise';
+import Rules from './pages/Rules';
 import './App.css';
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
           <Route path="pricing" element={<Pricing />} />
           <Route path="gallery" element={<Gallery />} />
           <Route path="merchandise" element={<Merchandise />} />
+          <Route path="rules" element={<Rules />} />
           <Route path="contact" element={<Contact />} />
         </Route>
       </Routes>

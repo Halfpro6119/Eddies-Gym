@@ -14,6 +14,7 @@ const Navigation = () => {
     { path: '/pricing', label: 'Pricing' },
     { path: '/gallery', label: 'Gallery' },
     { path: '/merchandise', label: 'Merchandise' },
+    { path: '/rules', label: 'Rules' },
     { path: '/contact', label: 'Contact' },
   ];
 
