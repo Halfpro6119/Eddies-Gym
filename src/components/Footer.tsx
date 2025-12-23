@@ -101,7 +101,7 @@ Sunday: 10:30 AM - 11:30 AM<br />
         <div className="border-t border-neutral-800 mt-8 pt-8 text-center text-neutral-400 text-sm">
           <p>&copy; 2025 Eddie's Gym. All rights reserved.<br />
             Website Designed and built by Riley Rogers <br />
-            contact rilrogsa@gmail.com
+            Contact rilrogsa@gmail.com
         </p>
         </div>
       </div>
